@@ -4,9 +4,11 @@ This project is a [Remotion](https://www.remotion.dev/) template specifically de
 
 ## 📺 Preview
 
-[![Matrix Rain Animation](public/matrix_preview.png)](public/example/video.mp4)
+|                               Preview 1                               |                               Preview 2                               |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| [![Matrix Rain Animation 1](public/matrix_preview.png)](IMG_3537.mp4) | [![Matrix Rain Animation 2](public/matrix_preview.png)](IMG_3538.mp4) |
 
-_(Note: Click the image above to play the video)_
+_(Note: Click the images above to play the videos)_
 
 ## 🚀 Getting Started
 
