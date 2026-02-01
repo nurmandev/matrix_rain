@@ -6,7 +6,7 @@ This project is a [Remotion](https://www.remotion.dev/) template specifically de
 
 |                               Preview 1                               |                               Preview 2                               |
 | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| [![Matrix Rain Animation 1](public/matrix_preview.png)](IMG_3537.mp4) | [![Matrix Rain Animation 2](public/matrix_preview.png)](IMG_3538.mp4) |
+| [![Matrix Rain Animation 1](public/matrix_preview.png)](public/IMG_3537.mp4) | [![Matrix Rain Animation 2](public/matrix_preview.png)](public/IMG_3538.mp4) |
 
 _(Note: Click the images above to play the videos)_
 
