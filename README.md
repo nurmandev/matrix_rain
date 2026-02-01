@@ -61,3 +61,9 @@ You can customize the Matrix effect by editing `src/components/MatrixRain.tsx`. 
 ---
 
 Built with [Remotion](https://www.remotion.dev/) 🎬
+
+## 🌟 Show your support
+
+Give a ⭐️ if this project helped you!
+
+[https://github.com/nurmandev/matrix_rain](https://github.com/nurmandev/matrix_rain)
