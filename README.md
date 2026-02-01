@@ -1,6 +1,12 @@
 # Matrix Rain Remotion Template
 
-This project is a [Remotion](https://www.remotion.dev/) template specifically designed for creating a **Matrix digital rain animation**. It uses React and HTML5 Canvas to render the iconic scrolling green code effect.
+This project is a [Remotion](https://www.remotion.dev/) template specifically designed for creating a **Matrix digital rain animation**.
+
+## 📺 Preview
+
+[**▶️ Watch the Preview Video**](public/example/video.mp4)
+
+_(Note: The video file is located at `public/example/video.mp4`)_
 
 ## 🚀 Getting Started
 
