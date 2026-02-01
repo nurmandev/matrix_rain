@@ -4,9 +4,9 @@ This project is a [Remotion](https://www.remotion.dev/) template specifically de
 
 ## 📺 Preview
 
-[**▶️ Watch the Preview Video**](public/example/video.mp4)
+[![Matrix Rain Animation](public/matrix_preview.png)](public/example/video.mp4)
 
-_(Note: The video file is located at `public/example/video.mp4`)_
+_(Note: Click the image above to play the video)_
 
 ## 🚀 Getting Started
 
